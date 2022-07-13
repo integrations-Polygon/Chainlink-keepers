@@ -28,7 +28,7 @@ module.exports = {
     }
   },
   etherscan: {
-    apiKey:'HWSUN9947Q8ESYGUK73NZ5JYDFDATT4RJ8' //polyscan api
+    apiKey: //polyscan api
   },
   solidity: {
   version: "0.8.12",
